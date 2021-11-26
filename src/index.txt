@@ -1,4 +1,4 @@
-{{.Hostname}}: Easy file sharing from the command line 
+{{.Hostname}}: 从命令行轻松共享文件
 ===
 made with <3 by DutchCoders 
 
